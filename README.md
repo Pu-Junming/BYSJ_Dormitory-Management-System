@@ -1,4 +1,4 @@
-<img width="605" height="260" alt="image" src="https://github.com/user-attachments/assets/825abf92-ca24-4665-a5d8-e382af545b2d" /># BYSJ_Dormitory-Management-System
+# BYSJ_Dormitory-Management-System
 基于Spring Boot+Vue的宿舍管理系统设计与实现,关键词：Java，宿舍管理系统，MySQL数据库，Jsp，Spring Boot，系统设计，软件工程。【毕业设计、课程设计、程序设计】
 
 ### 关键词：Java，宿舍管理系统，MySQL数据库，Jsp，系统设计，软件工程
